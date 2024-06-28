@@ -1,3 +1,18 @@
+
+## Deploy Site Config
+
+```bash
+# root directory
+/
+
+# build command
+npm install; npm run generate
+
+# build directory
+build
+```
+
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
