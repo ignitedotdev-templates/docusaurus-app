@@ -6,7 +6,7 @@
 /
 
 # build command
-npm install; npm run generate
+npm install; npm run build
 
 # build directory
 build
